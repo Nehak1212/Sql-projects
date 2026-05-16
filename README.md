@@ -1,4 +1,4 @@
-# Sql-projects
+# Music_store_analysis_Sql-projects
 
 /*	Question Set 1 - Easy */
 
